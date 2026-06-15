@@ -150,7 +150,7 @@ document.getElementById('priceGrid').innerHTML=turns.map(t=>`
 
 // Render team
 const team=[
-{n:'Julia Diaz',r:'Monitora',img:'assets/Julia.jpg'},
+{n:'Julia',r:'Monitora',img:'assets/Julia.jpg'},
 {n:'Fran',r:'Monitor',img:'assets/Fran.jpg'},
 {n:'Dani',r:'Monitor',img:'assets/Dani.jpg'}
 ];
